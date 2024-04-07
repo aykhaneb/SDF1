@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PetShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PetShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_about.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_basket.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_basket.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_gallery.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_offer.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_offer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_pricing.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_shop.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_tabs.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\_testimonials.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\css\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\js\\about.js",
+      "PackagePath": "staticwebassets\\assets\\js\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\js\\basket.js",
+      "PackagePath": "staticwebassets\\assets\\js\\basket.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\js\\home.js",
+      "PackagePath": "staticwebassets\\assets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-1-143x114.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-1-143x114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-1-370x276.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-1-370x276.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-1-634x373.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-1-634x373.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-2-143x114.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-2-143x114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-2-370x276.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-2-370x276.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-3-143x114.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-3-143x114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-3-370x276.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-3-370x276.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-4-143x114.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-4-143x114.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-4-570x511.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-4-570x511.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\about-4-634x373.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\about-4-634x373.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\bg-cta-1 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\bg-cta-1 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\bg-cta-1 (2).jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\bg-cta-1 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\bg-cta-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\bg-cta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\bg-cta.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\bg-cta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\breadcrumbs-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\breadcrumbs-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\clients-1-120x114.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\clients-1-120x114.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\clients-2-105x118.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\clients-2-105x118.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\clients-3-111x98.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\clients-3-111x98.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\clients-4-122x92.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\clients-4-122x92.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\clients-5-112x112.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\clients-5-112x112.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-1-178x178.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-1-178x178.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-1-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-1-370x315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-2-178x178.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-2-178x178.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-2-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-2-370x315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-3-178x178.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-3-178x178.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-3-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-3-370x315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-4-178x178.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-4-178x178.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-4-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-4-370x315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-5-178x178.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-5-178x178.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-5-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-5-370x315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-6-178x178.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-6-178x178.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\grid-gallery-6-370x315.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\grid-gallery-6-370x315.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\home-bg-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\home-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\icon-01-50x50.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\icon-01-50x50.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\icon-02-50x42.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\icon-02-50x42.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\icon-03-48x50.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\icon-03-48x50.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\icon-04-42x50.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\icon-04-42x50.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\icon-05-42x50.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\icon-05-42x50.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\icon-06-50x44.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\icon-06-50x44.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\images-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\images-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\logo-default-336x120 (1).png",
+      "PackagePath": "staticwebassets\\assets\\photos\\logo-default-336x120 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\logo-default-336x120.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\logo-default-336x120.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\post-1-570x461.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\post-1-570x461.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\post-2-270x215.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\post-2-270x215.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\post-3-270x215.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\post-3-270x215.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\product-big-1-328x330 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\product-big-1-328x330 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\product-big-1-328x330.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\product-big-1-328x330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\product-big-2-328x330.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\product-big-2-328x330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\product-big-3-328x330.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\product-big-3-328x330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\product-mini-1-106x104.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\product-mini-1-106x104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\product-mini-2-106x104.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\product-mini-2-106x104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\product-mini-3-106x104.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\product-mini-3-106x104.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\quote-37x29.png",
+      "PackagePath": "staticwebassets\\assets\\photos\\quote-37x29.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\shop-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\shop-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\shop-img-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\shop-img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\shop-img-13-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\shop-img-13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\shop-img-20.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\shop-img-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\shop-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\shop-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\shop-img-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\shop-img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\team-10-249x249.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\team-10-249x249.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\team-8-249x249.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\team-8-249x249.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\team-9-249x249.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\team-9-249x249.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-10-62x62.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-10-62x62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-11-62x62.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-11-62x62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-5-62x62 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-5-62x62 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-5-62x62.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-5-62x62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-6-62x62 (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-6-62x62 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-6-62x62.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-6-62x62.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-7-87x87.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-7-87x87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-8-87x87.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-8-87x87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\PetShop\\PetShop\\wwwroot\\assets\\photos\\user-9-87x87.jpg",
+      "PackagePath": "staticwebassets\\assets\\photos\\user-9-87x87.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PetShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PetShop.props",
+      "PackagePath": "build\\PetShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PetShop.props",
+      "PackagePath": "buildMultiTargeting\\PetShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PetShop.props",
+      "PackagePath": "buildTransitive\\PetShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

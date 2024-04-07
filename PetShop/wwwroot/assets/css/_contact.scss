@@ -1,0 +1,137 @@
+.links_hover {
+    transition: .4s;
+    cursor: pointer;
+
+    &:hover {
+        color: #ffd33b;
+
+    }
+}
+.touch_contact {
+    padding: 6rem 0;
+
+    .content_touch {
+        .head_touch {
+            padding: 40px 0;
+            align-items: center;
+
+            h3 {
+                font-size: 36px;
+                font-weight: 600;
+                color: #151515;
+                width: 23%;
+                border-right: 1px solid #e1e1e1;
+            }
+
+            .sm_touch_ph {
+                display: none;
+            }
+
+            p {
+                font-size: 15px;
+                color: #777777;
+                text-align: center;
+                margin-left: 2.8rem;
+            }
+        }
+
+        .bottom_touch {
+            a {
+                @extend .links;
+                color: #fff !important;
+                background-color: #ffd33b;
+                font-size: 14px;
+                padding: 19px 50px;
+                line-height: 2;
+                display: inline-block;
+                border-radius: 6px;
+                font-weight: 700;
+                letter-spacing: 0.1em;
+                text-transform: uppercase;
+                margin-top: 20px;
+            }
+
+            .box_mail_touch {
+                .touchinput {
+                    margin-bottom: 2rem;
+
+                    textarea {
+                        height: 141px !important;
+                        border: none;
+                        border-bottom: 1px solid #e1e1e1;
+                        padding: 17px 0;
+
+                    }
+
+                    input {
+                        border: none;
+                        border-bottom: 1px solid #e1e1e1;
+                        padding: 15px 0;
+                        width: 100%;
+                    }
+
+                    input:focus {
+                        outline: none;
+                    }
+
+                    textarea:focus {
+                        outline: none;
+                    }
+
+                    ::placeholder {
+                        /* Chrome, Firefox, Opera, Safari 10.1+ */
+                        color: #151515;
+                        transition: .4s;
+                        font-size: 15px;
+                        font-weight: 400;
+                        line-height: 24px;
+                        letter-spacing: .1em;
+                    }
+
+                    input:focus::-webkit-input-placeholder {
+                        color: transparent;
+                    }
+
+                    textarea:focus::-webkit-input-placeholder {
+                        color: transparent;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.contact_info {
+    background-color: #f9faf9;
+    padding: 6rem  0;
+    .content_c_info {
+        .box_cont_info {
+            .mail_c_info{
+                font-size: 15px;
+             color: #777777; 
+            }
+            p{
+             font-size: 15px;
+             color: #777777;       
+            }
+            h4 {
+                font-size: 24px;
+                font-weight: 600;
+                color: #151515;
+                margin-bottom: 10px;
+            }
+
+            li {
+                color: #151515;
+                line-height: 1.6;
+                font-weight: 400;
+
+                a {
+                    font-size: 14px;
+                    @extend .links;
+                    color: #777777 !important;
+                }
+            }
+        }
+    }
+}

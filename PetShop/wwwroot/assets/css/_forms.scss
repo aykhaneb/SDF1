@@ -1,0 +1,289 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.links {
+    text-decoration: none;
+    color: #151515;
+}
+
+.links_hover {
+    transition: .4s;
+    cursor: pointer;
+
+    &:hover {
+        color: #ffd33b;
+
+    }
+}
+
+.login_form {
+    padding: 5rem 0;
+
+    .sign {
+        color: #fff !important;
+        background-color: #ffd33b;
+        font-size: 14px;
+        padding: 19px 0;
+        width: 40%;
+        line-height: 2;
+        display: inline-block;
+        border-radius: 6px;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        margin-top: 20px;
+        border: none;
+        margin-right: 10px;
+
+    }
+
+    .account {
+        color: #fff !important;
+        background-color: #ff4342;
+        font-size: 14px;
+        padding: 19px 0;
+        width: 57%;
+        line-height: 2;
+        display: inline-block;
+        border-radius: 6px;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        margin-top: 20px;
+        border: none
+    }
+
+    .send {
+        color: #fff !important;
+        background-color: #ffd33b;
+        font-size: 14px;
+        padding: 19px 75px;
+        line-height: 2;
+        display: inline-block;
+        border-radius: 6px;
+        font-weight: 700;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        margin-top: 20px;
+        border: none
+    }
+
+    .content_login_form {
+        .col-lg-6 {
+            width: 43%;
+            margin-right: 4rem;
+        }
+
+        .heading_login {
+            text-align: center;
+            margin-bottom: 2rem;
+
+            h3 {
+                font-size: 36px;
+                font-weight: 600;
+                color: #151515;
+                line-height: 1.1;
+            }
+        }
+
+        .inputs_login {
+            .input_login_check {
+                width: 40px;
+                height: 40px;
+                margin-bottom: 3.3rem;
+                input{
+                    cursor: pointer;
+                }
+                span{
+                }
+            }
+
+            .input_login {
+                margin-bottom: 2rem;
+
+                input {
+                    border: none;
+                    border-bottom: 1px solid #e1e1e1;
+                    padding: 15px 0;
+                    width: 100%;
+                }
+
+                input:focus {
+                    outline: none;
+                }
+
+                textarea {
+                    height: 141px !important;
+                    border: none;
+                    border-bottom: 1px solid #e1e1e1;
+                    padding: 17px 0;
+                    width: 100%;
+
+                }
+
+                textarea:focus::-webkit-input-placeholder {
+                    color: transparent;
+                }
+
+                textarea:focus {
+                    outline: none;
+                }
+
+                ::placeholder {
+                    /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    color: #151515;
+                    transition: .4s;
+                    font-size: 15px;
+                    font-weight: 400;
+                    line-height: 24px;
+                    letter-spacing: .1em;
+                }
+
+                input:focus::-webkit-input-placeholder {
+                    color: transparent;
+                }
+            }
+
+            .social_login {
+                margin-bottom: 1.7rem;
+
+                i {
+                    margin-right: 5px;
+                }
+
+                .google_login,
+                .twit_login,
+                .face_login {
+                    text-align: center;
+                    font-size: 14px;
+                    width: 32%;
+                    color: #fff;
+                    border: none;
+                    line-height: 2;
+                    border: 2px solid;
+                    border-radius: 8px;
+                    font-weight: 700;
+                    letter-spacing: 0.1em;
+                    text-transform: uppercase;
+                    padding: 14px 2px;
+
+                }
+
+                .google_login {
+                    background-color: #ed5e5e;
+                }
+
+                .twit_login {
+                    background-color: #52b0e7;
+                }
+
+                .face_login {
+                    background-color: #3972ac;
+                }
+            }
+        }
+
+    }
+}
+
+.touch_contact_forms {
+    padding: 6rem 0;
+
+    .content_touch {
+        .head_touch {
+            padding: 40px 0;
+            text-align: center;
+
+            h3 {
+                font-size: 36px;
+                font-weight: 600;
+                color: #151515;
+                border: none;
+            }
+
+            .sm_touch_ph {
+                display: none;
+            }
+
+            p {
+                font-size: 15px;
+                color: #777777;
+                text-align: center;
+                margin-left: 2.8rem;
+            }
+        }
+
+        .bottom_touch {
+            button {
+                color: #fff !important;
+                background-color: #ffd33b;
+                font-size: 14px;
+                padding: 19px 50px;
+                line-height: 2;
+                display: inline-block;
+                border-radius: 6px;
+                font-weight: 700;
+                letter-spacing: 0.1em;
+                text-transform: uppercase;
+                margin-top: 20px;
+                border: none
+            }
+
+            .box_mail_touch {
+                .touchinput {
+                    margin-bottom: 2rem;
+
+                    textarea {
+                        height: 141px !important;
+                        border: none;
+                        border-bottom: 1px solid #e1e1e1;
+                        padding: 17px 0;
+
+                    }
+
+                    input {
+                        border: none;
+                        border-bottom: 1px solid #e1e1e1;
+                        padding: 15px 0;
+                        width: 100%;
+                    }
+
+                    input:focus {
+                        outline: none;
+                    }
+
+                    textarea:focus {
+                        outline: none;
+                    }
+
+                    ::placeholder {
+                        /* Chrome, Firefox, Opera, Safari 10.1+ */
+                        color: #151515;
+                        transition: .4s;
+                        font-size: 15px;
+                        font-weight: 400;
+                        line-height: 24px;
+                        letter-spacing: .1em;
+                    }
+
+                    input:focus::-webkit-input-placeholder {
+                        color: transparent;
+                    }
+
+                    textarea:focus::-webkit-input-placeholder {
+                        color: transparent;
+                    }
+                }
+            }
+        }
+    }
+}

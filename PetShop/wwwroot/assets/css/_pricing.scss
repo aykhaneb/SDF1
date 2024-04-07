@@ -1,0 +1,138 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.links {
+    text-decoration: none;
+    color: #151515;
+}
+
+.links_hover {
+    transition: .4s;
+    cursor: pointer;
+
+    &:hover {
+        color: #ffd33b;
+
+    }
+}
+
+.plan {
+    padding: 7rem 0;
+    .content_plan {
+        .head_plan {
+            h3 {
+                font-size: 36px;
+                color: #151515;
+                font-weight: 600;
+            }
+
+            p {
+                font-size: 15px;
+                color: #777777;
+                line-height: 1.6;
+                font-weight: 400;
+                padding: 10px 17rem;
+                margin-bottom: 4rem;
+            }
+        }
+
+        .sale {
+            .top_card {
+                background-color: #ffd33b !important;
+                position: relative;
+            }
+        }
+        
+        .box_plan_cards {
+            box-shadow: 3px 6px 6px 0 rgba(0, 0, 0, 0.11);
+            .dollar{
+                font-size: 15px;
+                text-decoration: line-through;
+            }
+            .sp_sale {
+                background-color: #FF4342 !important;
+                color: #fff;
+                position: absolute;
+                top: 3rem;
+                padding: 1px 12px;
+                font-weight: 500;
+                font-size: 14px;
+                border-radius: 6px;
+                left: 50%;
+                transform: translate(-50%,-50%);
+            }
+
+            .top_card {
+                border-radius: 6px 6px 0px 0;
+                background-color: #FF4342;
+                color: #fff;
+                padding: 4rem 1rem;
+
+                h3 {
+                    font-size: 36px;
+                    font-weight: 500;
+
+                }
+
+                p {
+                    font-weight: 400;
+                    font-size: 24px;
+
+                }
+            }
+
+            .bottom_card {
+                padding: 3rem 1rem;
+                background-color: #f7f7f7;
+
+                ul {
+                    margin-left: -40px;
+
+                    li {
+                        p {
+                            font-size: 17px;
+                            color: #151515;
+                            line-height: 1.6;
+                            font-weight: 400;
+
+                        }
+                    }
+                }
+
+                .button_add {
+                    margin-top: 2rem;
+                    .standart_btn{
+                        background-color: #ffd33b;
+                        color: #fff !important;
+                        transition: .4s;
+                        &:hover{
+                            background-color: #151515;
+                        }
+                    }
+
+                    a {
+                        @extend .links;
+                        display: inline-block;
+                        font-size: 14px;
+                        color: #ffd33b !important;
+                        line-height: 2;
+                        border: 2px solid;
+                        border-radius: 6px;
+                        font-weight: 700;
+                        letter-spacing: 0.1em;
+                        padding: 19px 50px;
+                    }
+                }
+            }
+        }
+    }
+}
